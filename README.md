@@ -1,15 +1,16 @@
-<!-- Animated Intro -->
+<!-- 🔥 Animated Gradient Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Joel;Full-Stack+Developer;Tech+Enthusiast+🚀;Building+Cool+Stuff+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Joel;Joel-Dag;Full-Stack+Developer;AI+%26+Tech+Enthusiast;Building+Cool+Stuff+🚀" />
 </h1>
+
+<!-- 🌌 Glow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f2937&height=100&section=header"/>
+</p>
 
 ---
 
-<!-- Glass Card: About -->
-<div align="center">
-  <img src="https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
-</div>
-
+## 💫 About Me
 <div align="center">
 
 🚀 Building cool things with code  
@@ -21,11 +22,7 @@
 
 ---
 
-<!-- Glass Card: Socials -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://instagram.com/@joexdag">
     <img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
@@ -34,13 +31,9 @@
 
 ---
 
-<!-- Glass Card: Tech Stack -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=for-the-badge&logo=code&logoColor=white" />
-</div>
-
+## 💻 Tech Stack
 <p align="center">
-  
+
 ![Python](https://img.shields.io/badge/python-1f2937?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -69,46 +62,46 @@
 
 ---
 
-<!-- Glass Card: Stats -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
+## 📊 Stats (Glass Style)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joel-Dag&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Joel-Dag&theme=tokyonight&hide_border=true&background=00000000" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Dag&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
-<!-- Glass Card: Trophies -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Trophies-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
+## 📈 Activity Graph (Animated)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joel-Dag&theme=onestar&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joel-Dag&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </p>
 
 ---
 
-<!-- Glass Card: Contributions -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Top%20Contributions-111827?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
+## 🐍 Contribution Snake (INSANE EFFECT)
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Joel-Dag&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://raw.githubusercontent.com/Joel-Dag/Joel-Dag/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- Glass Motto -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Motto-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joel-Dag&theme=onestar&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+## ⚡ Motto
+<p align="center">
   
-  > ✨ Build. Learn. Repeat.
-</div>
+> ✨ Build. Learn. Repeat.
+
+</p>
+
+---
+
+<!-- 🌌 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0f172a&height=100&section=footer"/>
+</p>
